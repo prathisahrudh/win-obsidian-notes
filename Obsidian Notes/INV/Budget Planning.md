@@ -1,2 +1,6 @@
 3 important columns of money flow -> 
-	| Income | S
+| Income | Spending | Savings |
+| -- | -- | -- |
+| Eg1 : 100 | Eg2: 200| Eg3: 300 |
+
+
