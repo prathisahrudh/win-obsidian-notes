@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INV/Budget Planning.md",
+                "file": "1RK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INV/Budget Planning.md",
+                "file": "1RK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INV/Budget Planning.md",
+                "file": "1RK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INV/Budget Planning.md"
+                "file": "1RK.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d90daffaf36ad472",
+  "active": "1aad7c7ce65ac9d6",
   "lastOpenFiles": [
+    "JS/javascript.info.md",
     "1RK.md",
     "INV/Budget Planning.md",
-    "JS/javascript.info.md",
     "INV/ZERODHA - TA.md",
     "INV",
     "JS"
