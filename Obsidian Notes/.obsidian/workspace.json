@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "735f7b85c4d75e39",
+            "id": "1aad7c7ce65ac9d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1RK.md",
+                "file": "INV/Budget Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1RK.md",
+                "file": "INV/Budget Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1RK.md",
+                "file": "INV/Budget Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1RK.md"
+                "file": "INV/Budget Planning.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "735f7b85c4d75e39",
+  "active": "d90daffaf36ad472",
   "lastOpenFiles": [
+    "1RK.md",
+    "INV/Budget Planning.md",
     "JS/javascript.info.md",
     "INV/ZERODHA - TA.md",
-    "1RK.md",
     "INV",
     "JS"
   ]
