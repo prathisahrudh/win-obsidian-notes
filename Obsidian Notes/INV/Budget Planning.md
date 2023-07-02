@@ -10,4 +10,7 @@ And name them such as Eg: "Income account" , "spend it account ", "save it accou
 	Non Cumulative  - Interests are payed at fixed interval.
 Interest on FD = Amount Invested x Interest Rate x (Duration/ 12 months)
 Types :
-	Standard Term Depo
+	Standard Term Deposits  - Fixed deposit amount and fixed interest rate.
+	Senior Citizen Fixed Deposit - 
+	Tax Saving Fixed Deposit - 5 yrs maturity period, deductable 1.5 lakh per year.
+	Flexi Fixed Deposit - Linked to savings account . 
