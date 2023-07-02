@@ -18,22 +18,5 @@ Types :
 ## Debt Funds
 - In short someone raised money for their work and promised a specific amount of return at the end.
 - Invest in debt instruments like bonds etc. Less volatile than equity funds and bonds are less volatile .
-Types of Debt Funds : 
-1. Overnight Funds 
-	Maturity period is 1 day.
-2. Liquid Funds 
-	Invest in debt securities with maturity < 91days 
-3. Ultra-short Duration Funds
-	At least 3 months .
-4. Low Duration Funds - 6month - 1yr . a bit risky but good returns. 
-5. Money Market Funds - upto 1 yr . they generate money from interest income.
-6. Short Duration Funds - short term debt + long term debt . 1-3yrs . nav fluctuates . > returns than 
-7. Med, med to long and long duration funds.
-	
-8. Fixed Maturity Plans ( FMPs )
-9. Corporate Bond Funds 
-10. Credit Risk Funds
-11. Banking and PSU Funds.
-12. GLit Funds.
-13. Floater Funds.
-14. Dynamic Funds.
+Debt Securities - 
+	A debt security is any debt that can be bought or sold between parties in the market prior to maturity. Its structure represents a debt owed by an issuer (the government, an organization, or a company) to an investor who acts as a lender.
