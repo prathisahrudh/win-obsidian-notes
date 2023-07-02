@@ -13,4 +13,4 @@ Types :
 	Standard Term Deposits  - Fixed deposit amount and fixed interest rate.
 	Senior Citizen Fixed Deposit - 
 	Tax Saving Fixed Deposit - 5 yrs maturity period, deductable 1.5 lakh per year.
-	Flexi Fixed Deposit - Linked to savings account . 
+	Flexi Fixed Deposit - Linked to savings account . Flexi fixed deposit interest > savings account but < standard term deposit. 
