@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "738011ada18a6aa5",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aad7c7ce65ac9d6",
+  "active": "d90daffaf36ad472",
   "lastOpenFiles": [
     "INV/ZERODHA - TA.md",
     "1RK.md",

@@ -13,4 +13,11 @@ Types :
 	Standard Term Deposits  - Fixed deposit amount and fixed interest rate.
 	Senior Citizen Fixed Deposit - 
 	Tax Saving Fixed Deposit - 5 yrs maturity period, deductable 1.5 lakh per year.
-	Flexi Fixed Deposit - Linked to savings account . Flexi fixed deposit interest > savings account but < standard term deposit. 
+	Flexi Fixed Deposit - Linked to savings account . Flexi fixed deposit interest > savings account but < standard term deposit
+
+## Debt Funds
+- In short someone raised money for their work and promised a specific amount of return at the end.
+- Invest in debt instruments like bonds etc. Less volatile than equity funds and bonds are less volatile .
+Types of Debt Funds : 
+1. Overnight Funds 
+2. Liquid Funds 
