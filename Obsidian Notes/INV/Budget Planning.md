@@ -24,10 +24,12 @@ Types of Debt Funds :
 2. Liquid Funds 
 	Invest in debt securities with maturity < 91days 
 3. Ultra-short Duration Funds
-4. Low Duration Funds 
-5. Money Market Funds 
-6. Short Duration Funds 
+	At least 3 months .
+4. Low Duration Funds - 6month - 1yr . a bit risky but good returns. 
+5. Money Market Funds - upto 1 yr . they generate money from interest income.
+6. Short Duration Funds - short term debt + long term debt . 1-3yrs . nav fluctuates . > returns than 
 7. Med, med to long and long duration funds.
+	
 8. Fixed Maturity Plans ( FMPs )
 9. Corporate Bond Funds 
 10. Credit Risk Funds
