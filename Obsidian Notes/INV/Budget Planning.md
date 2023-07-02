@@ -20,4 +20,18 @@ Types :
 - Invest in debt instruments like bonds etc. Less volatile than equity funds and bonds are less volatile .
 Types of Debt Funds : 
 1. Overnight Funds 
+	Maturity period is 1 day.
 2. Liquid Funds 
+	Invest in debt securities with maturity < 91days 
+3. Ultra-short Duration Funds
+4. Low Duration Funds 
+5. Money Market Funds 
+6. Short Duration Funds 
+7. Med, med to long and long duration funds.
+8. Fixed Maturity Plans ( FMPs )
+9. Corporate Bond Funds 
+10. Credit Risk Funds
+11. Banking and PSU Funds.
+12. GLit Funds.
+13. Floater Funds.
+14. Dynamic Funds.
