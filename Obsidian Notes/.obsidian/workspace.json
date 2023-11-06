@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81cffb21bbae4088",
+            "id": "46cccd6a896e7574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/The Odin Project.md",
+                "file": "Odin Project/JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/The Odin Project.md",
+                "file": "Odin Project/JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/The Odin Project.md",
+                "file": "Odin Project/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/The Odin Project.md"
+                "file": "Odin Project/JS.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81cffb21bbae4088",
+  "active": "46cccd6a896e7574",
   "lastOpenFiles": [
+    "Odin Project/Fundamentals.md",
+    "Odin Project/JS.md",
+    "Odin Project",
     "INV/Budget Planning.md",
-    "JS/The Odin Project.md",
-    "Untitled",
     "INV/ZERODHA - TA.md",
     "1RK.md",
     "JS/javascript.info.md",
