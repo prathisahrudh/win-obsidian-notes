@@ -1,1 +1,2 @@
-- Reg  
+- Regex Intro - [Learn Regular Expressions In 20 Minutes - YouTube](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+- 
