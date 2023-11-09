@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odin Project/JS.md"
+                "file": "Odin Project/Fundamentals.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "46cccd6a896e7574",
   "lastOpenFiles": [
+    "Odin Project/JS.md",
     "Odin Project/Fundamentals.md",
     "JS/javascript.info.md",
-    "Odin Project/JS.md",
     "Odin Project",
     "INV/Budget Planning.md",
     "INV/ZERODHA - TA.md",
