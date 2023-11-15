@@ -29,4 +29,8 @@
 	player1.sayName(); // logs 'steve'
 	player2.sayName(); // logs 'also steve'
 	```
-
+	- **getPrototypeOf()** -
+		This is used to get the prototype of an Object.
+		Object.getPrototypeOf(ObjectName);
+	- **hasOwnProperty()** -
+		
