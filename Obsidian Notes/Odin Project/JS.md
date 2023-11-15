@@ -40,4 +40,9 @@
 		```
 	- setPrototypeOf - 
 		Use this to mutate the Prototype of an Object.
-		
+		Eg:
+		```javascript
+		Object.setPrototypeOf(Player.prototype, Person.prototype);
+		Player.prototype inherits Prototype from Person.prototype
+		```
+	- 
