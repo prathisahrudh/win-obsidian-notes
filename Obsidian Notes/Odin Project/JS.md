@@ -33,4 +33,11 @@
 		This is used to get the prototype of an Object.
 		Object.getPrototypeOf(ObjectName);
 	- **hasOwnProperty()** -
+		Tells if the property is the objects own property or inherited.
+		Eg:
+		```javascript
+		Object.prototype.hasOwnProperty('hasOwnProperty');
+		```
+	- setPrototypeOf - 
+		Use this to mutate the Prototype of an Object.
 		
