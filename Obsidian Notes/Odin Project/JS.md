@@ -96,12 +96,22 @@ Eg:
 ```
 
 Prototypal Inheritance with Factory Function -
-	Eg1 : Where we extract a function and assign it to the needed function
-		```javascript
-		function createPlayer (name, level) {
-		  const { discordName, getReputation } = createUser(name);
-		
-		  const increaseLevel = () => level++;
-		  return { name, discordName, getReputation, increaseLevel };
-		}
-		```
+i.e extens one function into another.
+	Eg1 :Extract a function and assign it to the needed function
+```javascript
+function createPlayer (name, level) {
+  const { discordName, getReputation } = createUser(name);
+
+  const increaseLevel = () => level++;
+  return { name, discordName, getReputation, increaseLevel };
+}
+```
+	Eg2: Use Object.assign():
+```javascript
+function createPlayer (name, level) {
+  const user = createUser(name);
+
+  const increaseLevel = () => level++;
+  return Object.assign({}, user, { increaseLevel });
+}
+```
