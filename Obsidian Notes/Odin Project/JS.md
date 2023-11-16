@@ -93,5 +93,15 @@ Eg:
 	
 	console.log(person1.getFullName());
 	console.log(person2.getFullName());
-
 ```
+
+Prototypal Inheritance with Factory Function -
+	Eg1 : Where we extract a function and assign it to the needed function
+		```javascript
+		function createPlayer (name, level) {
+		  const { discordName, getReputation } = createUser(name);
+		
+		  const increaseLevel = () => level++;
+		  return { name, discordName, getReputation, increaseLevel };
+		}
+		```
