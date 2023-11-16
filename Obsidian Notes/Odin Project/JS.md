@@ -47,4 +47,11 @@
 		```
 
 ## Closures 
-	
+	When inner Function has access to the parent/outer function.
+## Factory Function
+	Work as a Constructor, but functions are written.
+	Write a function which returns an Object.
+	Eg:
+```
+
+```
