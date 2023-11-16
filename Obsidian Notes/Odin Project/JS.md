@@ -50,8 +50,25 @@
 	When inner Function has access to the parent/outer function.
 ## Factory Function
 	Work as a Constructor, but functions are written.
+	No need to use "new" keyword.
 	Write a function which returns an Object.
 	Eg:
-```
+```javascript
+function createPerson(firstName, lastName) {
+  return {
+    firstName: firstName,
+    lastName: lastName,
+    getFullName() {
+      return firstName + ' ' + lastName;
+    },
+  };
+}
 
+let person1 = createPerson('John', 'Doe');
+let person2 = createPerson('Jane', 'Doe');
+
+console.log(person1.getFullName());
+console.log(person2.getFullName());
 ```
+**Bad when it is used many times to create new Objects.**
+
