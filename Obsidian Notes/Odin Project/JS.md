@@ -70,7 +70,9 @@
 	console.log(person1.getFullName());
 	console.log(person2.getFullName());
 ```
-**Bad when it is used multiple to attach multiple functions to the factory function, instead use Object.create() **
+
+**Bad when it is used multiple to attach multiple functions to the factory function, instead use Object.create() to create a new Object**
+Use Object.create() here to create a new object using an existing object as a prototype.
 Eg:
 ```javascript
 	var personActions = {
@@ -86,5 +88,10 @@ Eg:
 	  return person;
 	}
 	
-	let person1 = createPerson('John', 'Doe'); let person2 = createPerson('Jane', 'Doe'); console.log(person1.getFullName()); console.log(person2.getFullName());
+	let person1 = createPerson('John', 'Doe');
+	let person2 = createPerson('Jane', 'Doe');
+	
+	console.log(person1.getFullName());
+	console.log(person2.getFullName());
+
 ```
