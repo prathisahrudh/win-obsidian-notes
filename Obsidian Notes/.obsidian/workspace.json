@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb014a8c78e1176b",
+        "id": "074ea20be42c03dd",
         "type": "tabs",
         "children": [
           {
-            "id": "79bb5bd7ea2132b9",
+            "id": "46cccd6a896e7574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odin Project/JS.md",
+                "file": "Odin Project/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odin Project/JS.md"
+                "file": "Odin Project/Fundamentals.md"
               }
             }
           }
@@ -154,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79bb5bd7ea2132b9",
+  "active": "46cccd6a896e7574",
   "lastOpenFiles": [
     "Odin Project/Practicing.md",
     "Odin Project/HTML + CSS.md",
-    "Odin Project/Fundamentals.md",
     "Odin Project/JS.md",
+    "Odin Project/Fundamentals.md",
     "JS/javascript.info.md",
     "Odin Project",
     "INV/Budget Planning.md",
