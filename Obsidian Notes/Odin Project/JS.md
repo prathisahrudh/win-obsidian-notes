@@ -45,3 +45,6 @@
 		Object.setPrototypeOf(Player.prototype, Person.prototype);
 		Player.prototype inherits Prototype from Person.prototype
 		```
+
+## Closures 
+	
