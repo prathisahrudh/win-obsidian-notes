@@ -54,21 +54,37 @@
 	Write a function which returns an Object.
 	Eg:
 ```javascript
-function createPerson(firstName, lastName) {
-  return {
-    firstName: firstName,
-    lastName: lastName,
-    getFullName() {
-      return firstName + ' ' + lastName;
-    },
-  };
-}
-
-let person1 = createPerson('John', 'Doe');
-let person2 = createPerson('Jane', 'Doe');
-
-console.log(person1.getFullName());
-console.log(person2.getFullName());
+	function createPerson(firstName, lastName) {
+	  return {
+	    firstName: firstName,
+	    lastName: lastName,
+	    getFullName() {
+	      return firstName + ' ' + lastName;
+	    },
+	  };
+	}
+	
+	let person1 = createPerson('John', 'Doe');
+	let person2 = createPerson('Jane', 'Doe');
+	
+	console.log(person1.getFullName());
+	console.log(person2.getFullName());
 ```
-**Bad when it is used many times to create new Objects.**
-
+**Bad when it is used multiple to attach multiple functions to the factory function, instead use Object.create() **
+Eg:
+```javascript
+	var personActions = {
+	  getFullName() {
+	    return this.firstName + ' ' + this.lastName;
+	  },
+	};
+	
+	function createPerson(firstName, lastName) {
+	  let person = Object.create(personActions);
+	  person.firstName = firstName;
+	  person.lastName = lastName;
+	  return person;
+	}
+	
+	let person1 = createPerson('John', 'Doe'); let person2 = createPerson('Jane', 'Doe'); console.log(person1.getFullName()); console.log(person2.getFullName());
+```
