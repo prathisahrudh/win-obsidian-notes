@@ -115,3 +115,19 @@ function createPlayer (name, level) {
   return Object.assign({}, user, { increaseLevel });
 }
 ```
+## Module Pattern 
+Using an IIFE to call a factory function is called Module Pattern.
+	Eg:
+```javascript
+const calculator = (function () {
+  const add = (a, b) => a + b;
+  const sub = (a, b) => a - b;
+  const mul = (a, b) => a * b;
+  const div = (a, b) => a / b;
+  return { add, sub, mul, div };
+})();
+
+calculator.add(3,5); // 8
+calculator.sub(6,2); // 4
+calculator.mul(14,5534); // 77476
+```
