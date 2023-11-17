@@ -7,9 +7,3 @@
 ### Fundas 
 - [Chapter 1: Basics | Learn Enough Command Line to Be Dangerous | Learn Enough to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 - Flexbox CheatSheet : [FLEX: A simple visual cheatsheet for flexbox (malven.co)](https://flexbox.malven.co/)
-
-Hey @graham, in that case i feel better if i completely create a new image section for this and hiding the current ATF section.
-
-In the new section ill completely remove content with only images as content is already in the images.
-
-Would this be okay 
