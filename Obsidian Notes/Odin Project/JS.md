@@ -151,3 +151,5 @@ class MyClass {
   // ...
 }
 ```
+	Static Keyword 
+		Can be accessed using the Object itself but not by any instance of it.
