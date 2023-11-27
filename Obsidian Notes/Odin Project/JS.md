@@ -133,3 +133,21 @@ calculator.mul(14,5534); // 77476
 ```
 
 ## Classes
+	Eg:
+```
+class MyClass {
+  prop = value; // property
+
+  constructor(...) { // constructor
+    // ...
+  }
+
+  method(...) {} // method
+
+  get something(...) {} // getter method
+  set something(...) {} // setter method
+
+  [Symbol.iterator]() {} // method with computed name (symbol here)
+  // ...
+}
+```
