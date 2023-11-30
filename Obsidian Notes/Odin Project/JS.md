@@ -178,4 +178,6 @@ p.then(function(result) {
    /* executes regardless or success for failure */ 
 });
 ```
-
+- https://www.youtube.com/watch?v=yswb4SkDoj0
+- https://www.youtube.com/watch?v=vQ3MoXnKfuQ
+- https://scrimba.com/scrim/cof4e4fb797a2d0a236ea38ce?embed=odin,mini-header,no-next-up
