@@ -153,3 +153,7 @@ class MyClass {
 ```
 	Static Keyword 
 		Can be accessed using the Object itself but not by any instance of it.
+
+
+## SOLID Principles
+- https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5
