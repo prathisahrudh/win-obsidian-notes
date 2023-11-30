@@ -181,3 +181,15 @@ p.then(function(result) {
 - https://www.youtube.com/watch?v=yswb4SkDoj0
 - https://www.youtube.com/watch?v=vQ3MoXnKfuQ
 - https://scrimba.com/scrim/cof4e4fb797a2d0a236ea38ce?embed=odin,mini-header,no-next-up
+
+## API's
+```javascript
+	// URL (required), options (optional)
+	fetch('https://url.com/some/url')
+	  .then(function(response) {
+	    // Successful response :)
+	  })
+	  .catch(function(err) {
+	    // Error :(
+	  });
+```
