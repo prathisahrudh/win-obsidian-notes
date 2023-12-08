@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/javascript.info.md",
+                "file": "javscript/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "738011ada18a6aa5",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/javascript.info.md",
+                "file": "javscript/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/javascript.info.md",
+                "file": "javscript/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/javascript.info.md"
+                "file": "javscript/Basics.md"
               }
             }
           }
@@ -162,12 +161,12 @@
     "Odin Project/Fundamentals.md",
     "Odin Project/Practicing.md",
     "Odin Project/HTML + CSS.md",
-    "JS/javascript.info.md",
+    "javscript/Basics.md",
     "Odin Project",
     "INV/Budget Planning.md",
     "INV/ZERODHA - TA.md",
     "1RK.md",
     "INV",
-    "JS"
+    "javscript"
   ]
 }
