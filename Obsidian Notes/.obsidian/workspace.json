@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javscript/Learn.md",
+                "file": "javscript/Content Tabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javscript/Learn.md",
+                "file": "javscript/Content Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javscript/Learn.md",
+                "file": "javscript/Content Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javscript/Learn.md"
+                "file": "javscript/Content Tabs.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   },
   "active": "46cccd6a896e7574",
   "lastOpenFiles": [
-    "javscript/Learn.md",
+    "javscript/Content Tabs.md",
     "Odin Project/JS.md",
     "Untitled",
     "Odin Project/Fundamentals.md",
