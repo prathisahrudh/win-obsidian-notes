@@ -13,3 +13,11 @@ let bag = {
 alert( bag.apple ); 
 ```
 [ fruit ] -- here is a computed property
+- Cloning 
+	Using Object.assign .
+	Eg1
+		let obj2 = { 'name': 'prathi' };
+		console.log(obj2.name);
+	Eg2 
+		let obj1 = {"name": "janardhan"};
+		
