@@ -14,10 +14,33 @@ alert( bag.apple );
 ```
 [ fruit ] -- here is a computed property
 - Cloning 
-	Using Object.assign .
-	Eg1
+1. Using **Object.assign** 
+	Good only for single level copying.
+	Eg1 :
 		let obj2 = { 'name': 'prathi' };
-		console.log(obj2.name);
-	Eg2 
+		Object.assign({} , obj2);
+	Eg2 :
+		let emptyObject = {}
 		let obj1 = {"name": "janardhan"};
-		
+		Object.assign(emptyObject , obj1, obj2);
+2. structuredClone
+	This is not effective while copying functions
+	Good for many level copying.
+	Eg1 :
+```
+	let user = {
+	  name: "John",
+	  sizes: {
+	    height: 182,
+	    width: 50
+	  }
+	};
+	
+	let clone = structuredClone(user);
+	
+	alert( user.sizes === clone.sizes ); // false, different objects
+	
+	// user and clone are totally unrelated now
+	user.sizes.width = 60;    // change a property from one place
+	alert(clone.sizes.width); 
+```
