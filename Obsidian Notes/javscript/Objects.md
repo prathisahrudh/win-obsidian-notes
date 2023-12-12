@@ -1,7 +1,10 @@
 ## Object Methods / Properties : 
 - for..in
 ## Constructor , Constructor Functions and operator "new"
-
+1. Constructor Function:
+	Naming scheme must be capitalized.
+	Must be executed only with the keyword "new".
+	Constructors return as objects are ok , otherwise if in primitives is ok
 
 ## Pointers:
 - Computed Properties 
