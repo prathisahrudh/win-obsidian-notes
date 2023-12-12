@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javscript/Content Tabs.md",
+                "file": "javscript/Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "738011ada18a6aa5",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javscript/Content Tabs.md",
+                "file": "javscript/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javscript/Content Tabs.md",
+                "file": "javscript/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javscript/Content Tabs.md"
+                "file": "javscript/Objects.md"
               }
             }
           }
@@ -158,6 +157,7 @@
   "active": "46cccd6a896e7574",
   "lastOpenFiles": [
     "javscript/Content Tabs.md",
+    "javscript/Objects.md",
     "Odin Project/JS.md",
     "Untitled",
     "Odin Project/Fundamentals.md",
