@@ -23,6 +23,7 @@ alert( bag.apple );
 		let emptyObject = {}
 		let obj1 = {"name": "janardhan"};
 		Object.assign(emptyObject , obj1, obj2);
+
 2. structuredClone
 	This is not effective while copying functions
 	Good for many level copying.
@@ -44,3 +45,6 @@ alert( bag.apple );
 	user.sizes.width = 60;    // change a property from one place
 	alert(clone.sizes.width); 
 ```
+
+3. Method shorthand other ways:
+	
