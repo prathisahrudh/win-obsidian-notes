@@ -1,4 +1,7 @@
-Read thor 
+## Object Methods / Properties : 
+- for..in
+
+## Pointers:
 - Computed Properties 
 ```
 let fruit = prompt("Which fruit to buy?", "apple");
