@@ -1,5 +1,7 @@
 ## Object Methods / Properties : 
 - for..in
+## Constructor , Constructor Functions and operator "new"
+
 
 ## Pointers:
 - Computed Properties 
@@ -47,4 +49,18 @@ alert( bag.apple );
 ```
 
 3. Method shorthand other ways:
-	
+```
+// these objects do the same
+user = {
+  sayHi: function() {
+    alert("Hello");
+  }
+};
+
+// method shorthand looks better, right?
+user = {
+  sayHi() { // same as "sayHi: function(){...}"
+    alert("Hello");
+  }
+};
+```
