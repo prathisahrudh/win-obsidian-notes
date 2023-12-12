@@ -68,3 +68,17 @@ user = {
 };
 ```
 
+
+
+.header_button{
+width: fit-content;
+background: #098558;
+color: white;
+border-radius:60px;
+}
+
+.header_button a{
+text-decoration: none;
+color: white;
+padding:8px 31px;
+}
