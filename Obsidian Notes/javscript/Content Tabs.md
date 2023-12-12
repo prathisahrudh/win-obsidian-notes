@@ -1,1 +1,2 @@
 - [x] JS Funda
+- [x] Code quality
