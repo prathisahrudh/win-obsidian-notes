@@ -4,7 +4,7 @@
 1. Constructor Function:
 	Naming scheme must be capitalized.
 	Must be executed only with the keyword "new".
-	Constructors return as objects are ok , otherwise if in primitives is ok
+	Constructors usually don't have a return statement. Constructors **"return statement"** as objects are ok, otherwise if return is in primitives it is ignored.
 
 ## Pointers:
 - Computed Properties 
