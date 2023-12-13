@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javscript/Objects.md",
+                "file": "javscript/Content Tabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javscript/Objects.md",
+                "file": "javscript/Content Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javscript/Objects.md",
+                "file": "javscript/Content Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javscript/Objects.md"
+                "file": "javscript/Content Tabs.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "46cccd6a896e7574",
   "lastOpenFiles": [
-    "javscript/Content Tabs.md",
     "javscript/Objects.md",
     "Odin Project/JS.md",
-    "Untitled",
-    "Odin Project/Fundamentals.md",
-    "Odin Project/Practicing.md",
     "Odin Project/HTML + CSS.md",
+    "Odin Project/Fundamentals.md",
+    "javscript/Content Tabs.md",
+    "Untitled",
+    "Odin Project/Practicing.md",
     "Odin Project",
     "INV/Budget Planning.md",
     "INV/ZERODHA - TA.md",
